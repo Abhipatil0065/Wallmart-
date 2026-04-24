@@ -65,4 +65,4 @@ This dashboard helps businesses to:
 
 This dashboard provides a comprehensive retail performance view, enabling businesses to monitor KPIs, identify trends, and take strategic actions efficiently.# Wallmart
 
-
+![Dashboard priview](https://github.com/Abhipatil0065/Spotify-Analysis-Dashboard/blob/main/spotify%20data%20analysis.png)
